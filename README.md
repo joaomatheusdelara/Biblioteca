@@ -1,3 +1,22 @@
+Após adicionar o projeto ao Git, é uma boa prática:
+
+Executar npm install para garantir que todas as dependências estão instaladas.
+Executar npm run dev para compilar seus assets.
+Rodar php artisan serve para iniciar o servidor do Laravel.
+Esses passos garantem que seu ambiente de desenvolvimento esteja atualizado e que você possa ver as alterações que fez. Se precisar de mais alguma coisa, é só avisar!
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
